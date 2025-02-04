@@ -1,0 +1,16 @@
+.container{
+    margin-top: 200px;
+    box-shadow: 0px 4px 8px black;
+    padding: 8px 15px;
+    border-radius: 8px;
+}
+
+.btn{
+    padding: 5px 5px;
+    border-radius: 8px;
+    background-color: aquamarine;
+    color: green;
+}
+#result{
+    margin-left: 3px;
+}
